@@ -1,0 +1,8 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#23320A",
+        "titleBar.activeBackground": "#31470F",
+        "titleBar.activeForeground": "#F7FCEE"
+    },
+    "dotnet.defaultSolution": "AdventEngine.sln"
+}
