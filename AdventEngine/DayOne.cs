@@ -10,7 +10,7 @@ namespace AdventEngine
     /// https://adventofcode.com/2023/day/1 
     /// </summary>
     public static class DayOne
-    {        
+    {
         public static int ReadFile(string filePath)
         {
             string[] lines = File.ReadAllLines(filePath);
